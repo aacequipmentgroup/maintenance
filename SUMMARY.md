@@ -2,8 +2,8 @@
 
 * [Guidance  on  Planned  Maintenance  of  Powered  Communication  Aids](README.md)
 * [Background](background.md)
-* [PPM Considerations](ppm-considerations.md)
-* [Service Schedules](service-schedules.md)
+  * [PPM Considerations](ppm-considerations.md)
+  * [Service Schedules](service-schedules.md)
 * [Resources](resources.md)
 * [Withdrawing Equipment/Maintenance](withdrawing-equipment-maintenance.md)
 * [Use of Contractors](use-of-contractors.md)
